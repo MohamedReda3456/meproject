@@ -198,3 +198,21 @@ a{
 .cs i{
     color: #fff;
 }
+@media (min-width:768px) {
+    .se img{
+        margin-left: 40%;
+    }
+    .sochil .face{
+        margin-left: 95px;
+    }
+    .Abut h2{
+        margin-left: 46%;
+    }
+    .nav a{
+        margin-left: 110px;
+        font-size: large;
+    }
+    .footer h4,.cs {
+        margin-left: 40%;
+    }
+}
